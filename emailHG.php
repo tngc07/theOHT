@@ -71,13 +71,13 @@ $message .= "</body></html>";
 	//TURN debug mode ON or OFF
 	$mail -> SMTPDebug = 1;
 	
-	//$mail->Host ='smtp.gmail.com';
-	//$mail->Port = 465;
-	//$mail->SMTPAuth = true; 
-	//$mail->SMTPSecure = 'ssl';
+	$mail->Host ='smtp.gmail.com';
+	$mail->Port = 465;
+	$mail->SMTPAuth = true; 
+	$mail->SMTPSecure = 'ssl';
 	   
-	//$mail->Username = "";
-	//$mail->Password = "";
+	$mail->Username = "";
+	$mail->Password = "";
 	
 	
 	$mail->setFrom = $emailF;
