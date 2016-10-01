@@ -1,0 +1,150 @@
+/* Header */
+
+h1.index_topbar{
+font-family: 'Josefin Sans', sans-serif;
+font-size:18px;
+letter-spacing:5px;
+}
+div.IndexMainHeaderImage{
+border-bottom:3px solid #333;	
+}
+
+/* xwrite */
+
+h3.ParrAdder{
+font-family:'Josefin Sans', sans-serif;
+font-size:12px;
+}
+
+/* BLOG.php */
+
+span.blogpgTitle{
+font-family: 'Josefin Sans', sans-serif;
+font-size:20px;
+letter-spacing:10px;	
+}
+
+span.parrTitle{
+font-family: 'Josefin Sans', sans-serif;
+font-size:20px;
+letter-spacing:10px;	
+}
+
+h3 span.blogEditorLables{
+font-family: 'Oswald', sans-serif;
+font-size:18px;
+/* letter-spacing:10px;	 */
+}
+
+h3.chgbtn{
+background:rgb(52,170,220);	
+}
+
+h3.chgbtn:hover{
+background:rgb(90,200,251);	
+}
+
+h3.chgVidUPDATEbtn{
+background:rgb(251,43,105);	
+}
+
+h3.chgVidUPDATEbtn:hover{
+background:rgb(255,73,129);	
+}
+
+button.chgVidUPDATEbtn{
+background:rgb(251,43,105);	
+}
+
+button.chgVidUPDATEbtn:hover{
+background:rgb(255,211,224);	
+}
+
+h4.VideosTtl{
+font-family: 'Oswald', sans-serif;
+font-size:35px;
+color:#333;		
+}
+
+
+
+button.chgbtndynm{
+font-family: 'Oswald', sans-serif;
+background:rgb(255,204,0);
+font-size:22px;
+letter-spacing:2px;	
+color:#000;
+border:2px solid #fff;	
+}
+
+button.chgbtndynm:hover{
+background:rgb(11,211,24);
+color:#fff;
+border:2px solid rgb(255,204,0);
+}
+
+span.whocanview{
+font-family: 'Oswald', sans-serif;
+font-size:13px;
+letter-spacing:2px;	
+color:#333;	
+margin:;
+}
+
+select#choosecat:invalid { color: pink; }
+
+
+div#SureDeleteMessage{
+display:none;
+position:relative;	
+margin:0 auto;
+width:400px;
+overflow:auto;
+background:#f4f4f4;
+}
+
+
+a span.addNewBP{
+font-family: 'Oswald', sans-serif;
+font-size:15px;
+padding:0px 0px 8px 0px;
+margin:10px;
+color:#333;	
+}
+
+
+/* Articles Page */
+span.simart{
+font-family: 'Oswald', sans-serif;
+font-size:15px;	
+}
+
+span.MainArtTTL{
+font-family:'Josefin Sans', sans-serif;
+font-size:25px;
+color:#333;		
+}
+
+div.MainArtContent{
+font-family:'Josefin Sans', sans-serif;
+font-size:15px;
+color:#333;		
+}
+
+span.articleEDIToption{
+font-family:'Josefin Sans', sans-serif;
+font-size:15px;
+color:#333;		
+}
+
+ul.vidlist li {
+font-family:'Josefin Sans', sans-serif;
+font-size:14px;
+font-weight:900;
+text-align:left;
+color:#333;
+width:100%;	
+padding:10px 0px 10px 8px;
+margin:0px 0px 2px 0px;
+}
+

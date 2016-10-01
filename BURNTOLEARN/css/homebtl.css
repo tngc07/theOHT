@@ -1,0 +1,45 @@
+div#indexHeadImage{
+border-bottom:2px solid rgb(255,94,58);	
+}
+
+h1{
+font-family: 'Open Sans', sans-serif;	
+}
+
+p.topoff{
+font-size:18px;
+font-family: 'Open Sans', sans-serif;		
+}
+
+div#indexMainMenu{
+position:relative;
+padding:0px;
+
+
+}
+
+h3.indexMainNav{
+background:rgb(255,205,2);
+padding:10px;
+text-align:center;
+font-size:12px;
+text-transform:uppercase;	
+}
+
+div#floating_burnguy{
+position:absolute;
+left:0px;
+height:669px;
+z-index:10;	
+}
+
+div.courseof img{
+box-shadow:0px 0px 10px #ccc;
+
+}
+
+div#gettraining{
+background:url(../img/gettraining.png);
+height:200px;
+
+}
